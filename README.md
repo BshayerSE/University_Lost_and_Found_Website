@@ -39,9 +39,9 @@ This platform streamlines the process of reporting and finding lost or found ite
 
 ---
 
-## View Site 
+## Visit Site 
 
-[Go to website](https://BshayerSE.github.io/University_Lost_and_Found_Website/)
+[Check the website](https://BshayerSE.github.io/University_Lost_and_Found_Website/)
 
 
 ---
